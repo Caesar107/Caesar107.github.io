@@ -5,7 +5,8 @@ main:
   - title: "About"
     url: /about/
   - title: "Resume"
-    url: /cv/  - title: "Projects"
+    url: /cv/
+  - title: "Projects"
     url: /projects/
   - title: "Contact"
     url: mailto:mzou000@aucklanduni.ac.nz
