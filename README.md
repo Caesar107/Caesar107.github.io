@@ -1,16 +1,17 @@
-# Caesar's Personal Website
+# Menglin Zou's AI Research Portfolio
 
-Welcome to my personal portfolio website built with Jekyll and the Minimal Mistakes theme!
+Welcome to my AI research portfolio website built with Jekyll and the Minimal Mistakes theme!
 
 ## 🌟 About This Site
 
-This website showcases my journey as a software engineer, including:
+This website showcases my journey as an AI researcher and machine learning engineer, including:
 
-- 📚 Educational background and achievements
-- 💼 Professional experience and projects
-- 🛠️ Technical skills and expertise
-- 📝 Blog posts and thoughts on technology
-- 📞 Contact information and social links
+- 🎓 Academic background in Artificial Intelligence at The University of Auckland
+- 🔬 Research experience in inverse reinforcement learning and deep learning
+- 💻 AI/ML projects in computer vision, NLP, and reinforcement learning
+- 📝 Blog posts and insights on cutting-edge AI research
+- 📚 Publications and academic contributions
+- 📞 Professional contact information and academic networks
 
 ## 🚀 Quick Start
 
@@ -49,11 +50,12 @@ Caesar107.github.io/
 │   └── navigation.yml   # Navigation menu
 ├── _pages/
 │   ├── about.md         # About page
-│   └── cv.md           # Resume/CV page
-├── _posts/             # Blog posts
+│   ├── cv.md           # Resume/CV page
+│   └── projects.md     # AI/ML Projects showcase
+├── _posts/             # Research blog posts
 ├── assets/
 │   ├── images/         # Image files
-│   └── docs/           # Document files
+│   └── docs/           # Research papers and documents
 ├── Gemfile             # Ruby dependencies
 └── index.md            # Homepage
 ```
@@ -62,27 +64,28 @@ Caesar107.github.io/
 
 This site uses the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme, which provides:
 
-- Responsive design
-- SEO optimization
-- Social media integration
-- Comment system support
+- Responsive design optimized for academic portfolios
+- SEO optimization for research visibility
+- Social media and academic network integration
+- Comment system support for research discussions
 - Analytics integration
-- Multiple layout options
+- Multiple layout options for showcasing research
 
 ## 🛠️ Customization
 
-### Updating Content
+### Updating Research Content
 
-- **Personal Information**: Edit `_config.yml` to update site title, description, and author details
+- **Personal Information**: Edit `_config.yml` to update site title, description, and researcher details
 - **Navigation**: Modify `_data/navigation.yml` to change menu items
-- **About Page**: Update `_pages/about.md` with your personal story
-- **Resume**: Edit `_pages/cv.md` to reflect your experience and skills
+- **About Page**: Update `_pages/about.md` with your research background and interests
+- **CV/Resume**: Edit `_pages/cv.md` to reflect your academic experience and publications
+- **Projects**: Update `_pages/projects.md` with your latest AI/ML research projects
 
-### Adding Blog Posts
+### Adding Research Blog Posts
 
 Create new files in the `_posts` directory with the format:
 ```
-YYYY-MM-DD-title-of-post.md
+YYYY-MM-DD-title-of-research-post.md
 ```
 
 ### Styling
@@ -92,11 +95,11 @@ YYYY-MM-DD-title-of-post.md
 
 ## 📱 Features
 
-- **Responsive Design**: Looks great on desktop, tablet, and mobile
-- **SEO Optimized**: Built-in meta tags and structured data
-- **Fast Loading**: Optimized images and minimal JavaScript
-- **Accessible**: WCAG compliant design
-- **Social Integration**: Easy sharing and social media links
+- **Academic-Focused Design**: Optimized for showcasing research and publications
+- **SEO Optimized**: Enhanced visibility for academic content
+- **Fast Loading**: Optimized for research papers and technical content
+- **Accessible**: WCAG compliant design for academic audiences
+- **Professional Integration**: Easy integration with academic networks and publications
 
 ## 🚀 Deployment
 
@@ -110,21 +113,21 @@ YYYY-MM-DD-title-of-post.md
 
 - **Netlify**: Connect your GitHub repo for automatic deployments
 - **Vercel**: Import your project for serverless deployment
-- **Custom Server**: Build locally and upload to your web server
+- **Custom Server**: Build locally and upload to your academic institution's server
 
 ## 📈 Analytics & Performance
 
-- Google Analytics integration (update tracking ID in `_config.yml`)
-- Built-in sitemap generation for SEO
-- Optimized images and assets for fast loading
+- Google Analytics integration for tracking research portfolio visits
+- Built-in sitemap generation for academic SEO
+- Optimized images and assets for fast loading of research content
 
 ## 🤝 Contributing
 
-This is a personal website, but if you find any bugs or have suggestions:
+This is a personal research portfolio, but if you find any bugs or have suggestions:
 
 1. Open an issue
 2. Submit a pull request
-3. Reach out via email: [caesarc107@gmail.com](mailto:caesarc107@gmail.com)
+3. Reach out via email: [mzou000@aucklanduni.ac.nz](mailto:mzou000@aucklanduni.ac.nz)
 
 ## 📄 License
 
@@ -132,10 +135,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Email**: [caesarc107@gmail.com](mailto:caesarc107@gmail.com)
+- **Email**: [mzou000@aucklanduni.ac.nz](mailto:mzou000@aucklanduni.ac.nz)
 - **GitHub**: [@Caesar107](https://github.com/Caesar107)
+- **LinkedIn**: [linkedin.com/in/menglin-zou](https://www.linkedin.com/in/menglin-zou)
 - **Website**: [caesar107.github.io](https://caesar107.github.io)
 
 ---
 
-*Built with ❤️ using Jekyll and Minimal Mistakes*
+*Built with ❤️ using Jekyll and Minimal Mistakes for AI Research Portfolio*

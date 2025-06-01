@@ -11,11 +11,11 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "Caesar's Portfolio"
+title: "Menglin Zou's Portfolio"
 title_separator: "-"
-subtitle: "Software Engineer & Data Enthusiast"
-name: "Caesar"
-description: "Personal portfolio showcasing my journey in software development, data science, and technology innovation."
+subtitle: "AI Researcher & Machine Learning Engineer"
+name: "Menglin Zou"
+description: "Personal portfolio showcasing my journey in artificial intelligence research, machine learning, and deep learning innovation."
 url: "https://caesar107.github.io"
 baseurl: ""
 repository: "Caesar107/Caesar107.github.io"
@@ -27,21 +27,21 @@ words_per_minute: 200
 
 # Site Author
 author:
-  name: "Caesar"
+  name: "Menglin Zou"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Software Engineer passionate about creating innovative solutions through technology"
-  location: "China"
-  email: "caesarc107@gmail.com"
+  bio: "AI Researcher pursuing Master's in Artificial Intelligence at The University of Auckland. Passionate about deep learning, computer vision, and reinforcement learning."
+  location: "Auckland, New Zealand"
+  email: "mzou000@aucklanduni.ac.nz"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:caesarc107@gmail.com"
+      url: "mailto:mzou000@aucklanduni.ac.nz"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Caesar107"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/your-profile"
+      url: "https://www.linkedin.com/in/menglin-zou"
 
 # Site Footer
 footer:
@@ -49,9 +49,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Caesar107"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/menglin-zou"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:caesarc107@gmail.com"
+      url: "mailto:mzou000@aucklanduni.ac.nz"
 
 # Reading Files
 include:
