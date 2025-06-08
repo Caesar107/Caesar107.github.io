@@ -24,11 +24,11 @@ toc_sticky: true
 **The University of Auckland** | Auckland, New Zealand  
 *July 2023 - Present*
 
-- **GPA**: 7.75/9.0
+<!-- - **GPA**: 7.75/9.0 -->
 - **Core Courses**: 
-  - AI Architecture and Design (A)
-  - Deep Learning (A)
-  - Natural Language Processing (A)
+  - AI Architecture and Design
+  - Deep Learning
+  - Natural Language Processing
 - **Research Focus**: Inverse Reinforcement Learning, Deep Learning Optimization
 - **Expected Graduation**: 2025
 
@@ -36,7 +36,7 @@ toc_sticky: true
 **Southwest University** | Chongqing, China  
 *September 2020 - June 2023*
 
-- **GPA**: 75/100
+<!-- - **GPA**: 75/100 -->
 - **Core Courses**: Data Structures, Computer Organization, Operating Systems, Computer Networks
 - **Focus Areas**: Computer Science Fundamentals, Programming, System Design
 
@@ -63,22 +63,22 @@ Yang Chen, **Menglin Zou**, Jiaqi Zhang, Yitan Zhang, Junyi Yang, Gael Gendron, 
 - **Proficient**: C/C++, SQL, R, JavaScript, HTML/CSS
 - **Frameworks**: PyTorch, TensorFlow, Keras, Flask
 
-### AI/ML Technologies
+<!-- ### AI/ML Technologies
 - **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers, ViT
-- **Computer Vision**: YOLO (v3, v5), HaarCascade, Image Classification
+- **Computer Vision**: YOLO, HaarCascade, Image Classification
 - **NLP**: Language Models, GPT-based systems, Text Processing
 - **Reinforcement Learning**: Policy Optimization, Reward Learning, Q-Learning
 
 ### Data Science & Analytics
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Techniques**: Data Processing, Statistical Analysis, Visualization
-- **Tools**: Jupyter Notebooks, Data Mining, Feature Engineering
+- **Tools**: Jupyter Notebooks, Data Mining, Feature Engineering -->
 
 ### Developer Tools & Platforms
 - **Version Control**: Git, GitHub
 - **IDEs**: VS Code, Visual Studio, PyCharm, Eclipse
 - **Cloud**: Google Cloud Platform
-- **Others**: DSSM (Deep Structured Semantic Models)
+<!-- - **Others**: DSSM (Deep Structured Semantic Models) -->
 
 ### Soft Skills
 - Business Communication
