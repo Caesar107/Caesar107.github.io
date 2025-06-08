@@ -2,10 +2,6 @@
 permalink: /about/
 title: "About Me"
 excerpt: "Learn more about my journey in artificial intelligence and machine learning research."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
 last_modified_at: 2025-06-01T11:59:26-04:00
 toc: true
 ---

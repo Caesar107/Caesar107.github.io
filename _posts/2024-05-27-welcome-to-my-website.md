@@ -11,8 +11,6 @@ tags:
   - portfolio
   - artificial-intelligence
   - machine-learning
-header:
-  teaser: /assets/images/welcome-post-teaser.jpg
 excerpt: "Introducing my new research portfolio and blog focused on artificial intelligence, machine learning, and deep learning innovations!"
 ---
 

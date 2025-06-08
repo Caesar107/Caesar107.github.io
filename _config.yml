@@ -28,7 +28,7 @@ words_per_minute: 200
 # Site Author
 author:
   name: "Menglin Zou"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/me.jpg"
   bio: "AI Researcher pursuing Master's in Artificial Intelligence at The University of Auckland. Passionate about deep learning, computer vision, and reinforcement learning."
   location: "Auckland, New Zealand"
   email: "mzou000@aucklanduni.ac.nz"
