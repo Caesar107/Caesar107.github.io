@@ -15,7 +15,7 @@ title: "Menglin Zou's Portfolio"
 title_separator: "-"
 subtitle: "AI Researcher & Machine Learning Engineer"
 name: "Menglin Zou"
-description: "Personal portfolio showcasing my journey in artificial intelligence research, machine learning, and deep learning innovation."
+description: "Personal portfolio showcasing my journey in artificial intelligence research, machine learning, and deep learning innovation. PhD candidate at The University of Auckland specializing in inverse reinforcement learning and computer vision."
 url: "https://caesar107.github.io"
 baseurl: ""
 repository: "Caesar107/Caesar107.github.io"
@@ -24,6 +24,15 @@ logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x8
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: false # true, false (default)
 words_per_minute: 200
+
+# SEO Settings
+twitter:
+  username: # Add your Twitter username if you have one
+google_site_verification: # Add Google Search Console verification code
+facebook:
+  app_id: # Facebook app ID for Open Graph
+  publisher: # Facebook page URL
+google_analytics: # Add Google Analytics tracking ID
 
 # Site Author
 author:
